@@ -6,4 +6,9 @@
     <color name="card_background">#212E46</color>
     <color name="text_hint">#6E6189</color>
 
+    <color name="underWeight">#6C3636</color>
+    <color name="normal">#0CAA36</color>
+    <color name="overWeight">#4C1B25</color>
+    <color name="obese">#930909</color>
+
 </resources>
