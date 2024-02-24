@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.devkm.bmicalculator"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.devkm.bmicalculator"
